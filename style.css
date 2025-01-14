@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.headers{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+.headers h1{
+    color: orangered;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+.headers ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    font-size: 1.4em;
+    font-weight: bold;
+    color: white;
+}
+.container{
+    background-image: linear-gradient(to bottom, rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url(img.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+input{
+    width: 160px;
+    height: 40px;
+    font-size: 1em;
+    color: white;
+    border: none;
+}
+#search{
+    width: 70px;
+    height: 40px;
+    font-size: 1em;
+    color: white;
+    background-color: orangered;
+    border: none;
+}
+/* section 2 */
+.hero{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 90px;
+}
+.left{
+    width: 45%;
+}
+span{
+    color: orangered;
+}
+.left h2{
+    font-size: 4em;
+    color: white;
+    padding: 20px;
+}
+.left p{
+    color: white;
+    font-size: 2em;
+}
+#btnjoin{
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    margin: 40px 0px;
+    color: white;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 15px;
+}
+.box{
+    height: 580px;
+    width: 450px;
+    background-color: black;
+    border-radius: 25px;
+}
+.boxx{
+    width: 190px;
+    height: 50px;
+   margin-left: 15%;
+   color: white;
+   margin-top: 15%;
+   border: none;
+   border-radius: 20px;
+   color: orangered;
+   font-size: 1.8em;
+   font-weight: 700;
+   text-align: center;
+    background-color: white;
+}
+.input{
+  margin-top: 15%;
+  margin-left: 12%;
+  width: 44px;
+}
+.box p{
+    color: white;
+    font-size: 1.7em;
+    width: 55%;
+    margin-top: 8%;
+    margin-left: 15%;
+}
+.icons{
+    color: white;
+    margin-top: 3%;
+    margin-left: 30%;
+    font-size: 1.6em;
+}
+.box2{
+    width: 220px;
+    height: 50px;
+   margin-left: 15%;
+   margin-top: 20%;
+   border: none;
+   border-radius: 20px;
+   color: white;
+   font-size: 1.8em;
+   font-weight: 700;
+   text-align: center;
+    background-color: orangered;
+}
+/* qeybta kle */
+
+.containerr{
+    background-color: white;
+}
+.headerr{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+.headerr h1{
+    color: orangered;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    font-size: 1.4em;
+    font-weight: bold;
+    color: black;
+}
+
+
+input{
+    width: 160px;
+    height: 40px;
+    font-size: 1em;
+    color: black;
+}
+#search{
+    width: 70px;
+    height: 40px;
+    font-size: 1em;
+    color: black;
+}
+/* section 2 */
+.hero1{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 90px;
+}
+.left1{
+    width: 45%;
+}
+span{
+    color: orangered;
+}
+.left1 h2{
+    font-size: 4em;
+    color: black;
+    padding: 20px;
+}
+.left1 p{
+    color: black;
+    font-size: 2em;
+}
+#btnjoin{
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    margin: 40px 0px;
+    color: black;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 15px;
+}
+.box{
+    height: 580px;
+    width: 450px;
+    background-color: black;
+    border-radius: 25px;
+}
