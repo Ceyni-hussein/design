@@ -100,6 +100,11 @@ span{
     height: 45px;
     margin-top: 298%;
 }
+#password{
+    width: 280px;
+    height: 45px;
+    margin-top: 20%;
+}
 .input{
   margin-top: 25%;
   margin-left: 12%;
