@@ -95,8 +95,12 @@ span{
    text-align: center;
     background-color: white;
 }
+#email{
+    width: 200px;
+    height: 30px;
+}
 .input{
-  margin-top: 15%;
+  margin-top: 25%;
   margin-left: 12%;
   width: 44px;
 }
