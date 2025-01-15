@@ -57,7 +57,7 @@ span{
 .left h2{
     font-size: 4em;
     color: white;
-    padding: 20px;
+    padding: 30px;
 }
 .left p{
     color: white;
@@ -116,6 +116,9 @@ span{
     width: 55%;
     margin-top: 26%;
     margin-left: 15%;
+}
+.box a{
+    color: orangered;
 }
 .icons{
     color: white;
